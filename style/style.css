@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Righteous&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100lvh;
+    /* background-color: #002B24; */
+    background: radial-gradient(circle, #002B24, #165e34, #002B24);
+
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   
+
+}
+.puts{
+    margin-bottom: 20px;
+    :nth-child(1){
+        color: white;
+    }
+    :nth-child(2){
+        padding: 5px 5px;
+        transition: 150ms;
+    }
+}
+a{
+    text-decoration: none;
+}
+.button{
+    border: 0;
+    border-radius: 10px;
+    color: rgb(205, 223, 218);
+    background-color: #99a59e;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: 150ms;
+}
+input:hover{
+    transform: scale(1.1);
+}
+.button:hover{
+    background-color: rgb(74, 116, 113);
+    transform: scale(1.1);
+
+}    
+.thanktext{
+    font-family: "Righteous", sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+}

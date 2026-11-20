@@ -4,7 +4,13 @@ A responsive and interactive multi-step form built with HTML, CSS, and JavaScrip
 
 ## 🌐 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_URL)
+[View Live Demo](https://interactive-forms.vercel.app/)
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ## ✨ Features
 
@@ -15,17 +21,12 @@ A responsive and interactive multi-step form built with HTML, CSS, and JavaScrip
 - Conditional navigation between form steps.
 - Prevents users from proceeding with invalid or incomplete data.
 
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Moataz007/Interactive-forms
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
@@ -33,3 +34,9 @@ A responsive and interactive multi-step form built with HTML, CSS, and JavaScrip
 ## 🎯 Project Goal
 
 To practice JavaScript form validation, DOM manipulation, and interactive user experiences while building responsive multi-step forms.
+
+## 👨‍💻 Author
+
+Moataz Mohamed
+
+[GitHub](https://github.com/Moataz007)
