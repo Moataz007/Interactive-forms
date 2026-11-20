@@ -16,11 +16,15 @@
     height: 100lvh;
     /* background-color: #002B24; */
     background: radial-gradient(circle, #002B24, #165e34, #002B24);
-
     font-family: "Righteous", sans-serif;
     font-weight: 400;
     font-style: normal;
-   
+
+}
+.border-page{
+        border: 2px solid #ccd3d2;
+        border-radius: 8px;
+        padding: 60px 40px;
 
 }
 .puts{
